@@ -1,4 +1,4 @@
-### Olá eu sou SEO da Digital Anatec Informatica Ltda em São Paulo, SP 👋
+### Al´sou o CEO da Digital Anatec Informatica Ltda em São Paulo, SP 👋
 
 <!--
 **digitalanatec/digitalanatec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
